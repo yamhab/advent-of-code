@@ -1,0 +1,8 @@
+.{
+    .name = .aoc2024_zig,
+    .version = "0.0.0",
+    .fingerprint = 0x60a6855db0906ce7,
+    .minimum_zig_version = "0.15.2",
+    .dependencies = .{},
+    .paths = .{""},
+}

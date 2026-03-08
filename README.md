@@ -11,3 +11,4 @@ no idea what I'm saying rn lol). So far I have solutions for the following
 years and languages:
 
 + 2023 in Rust
++ 2024 in Zig
