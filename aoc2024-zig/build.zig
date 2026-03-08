@@ -11,7 +11,7 @@ pub fn build(b: *std.Build) !void {
         run = try std.fmt.parseInt(i32, args[0], 10);
     }
 
-    for (1..1) |day| {
+    for (1..2) |day| {
         const name = b.fmt("day_{d:0>2}", .{day});
         const filename = b.fmt("src/day_{d:0>2}.zig", .{day});
 
